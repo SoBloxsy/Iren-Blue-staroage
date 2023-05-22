@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="We're not just ready yet!" />
         <p className="description">
-          but we will be #soon</code>
+          but we will be #soon
         </p>
       </main>
 
