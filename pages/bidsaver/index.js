@@ -4,13 +4,8 @@ import Footer from '@components/Footer'
 
 export default function Home() {
   return (
-    
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8" />
-
-<style id="webmakerstyle">
+   
+<style id="">
 body,
 html {
   padding: 0;
@@ -208,7 +203,6 @@ button.addEventListener("click", function(event) {
 });
 //# sourceURL=userscript.js
 </script>
-</body>
-</html>
+
 )
 }
