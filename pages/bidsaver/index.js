@@ -1,4 +1,10 @@
+import Head from 'next/head'
+import Header from '@components/Header'
+import Footer from '@components/Footer'
 
+export default function Home() {
+  return (
+    
 <!DOCTYPE html>
 <html>
 <head>
@@ -204,3 +210,5 @@ button.addEventListener("click", function(event) {
 </script>
 </body>
 </html>
+)
+}
